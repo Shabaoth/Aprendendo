@@ -1,12 +1,16 @@
+##                  **Objective.:** 
+I want to achieve these goals to improve myself and to acquire new job skills.
 
-          ### Topics
+
+
+###                  Goals
           
-       - **C#** 
-                   • Build a complete WEB application (with database, view and model)
+- **C#** 
+
+  - Build a complete WEB application (with database, view and model)
                    
-       - Entity Framework
+- **Entity Framework**
        
-       - ASP.NET Core
+- **ASP.NET Core**
 
           
-          I want to learn these topics to improve myself and to acquire new job skills.
