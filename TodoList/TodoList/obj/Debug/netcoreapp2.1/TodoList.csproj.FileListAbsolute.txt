@@ -1,6 +1,0 @@
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.csprojAssemblyReference.cache
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.csproj.CoreCompileInputs.cache
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.RazorAssemblyInfo.cache
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.RazorAssemblyInfo.cs
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.AssemblyInfoInputs.cache
-C:\Users\gustavo.unicom\Source\Repos\Aprendendo\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.AssemblyInfo.cs

@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace AspNetCoreTodo.Models
+namespace TodoList.Models
 {
     public class TodoItem
     {
@@ -10,8 +10,8 @@ namespace AspNetCoreTodo.Models
         public bool Status { get; set; }
 
         [Required]
-        public string Descricao { get; set; }
+        public string Description { get; set; }
 
-        public DateTimeOffset? DataConclusao { get; set; }
+        public DateTimeOffset? DueAt { get; set; }
     }
 }

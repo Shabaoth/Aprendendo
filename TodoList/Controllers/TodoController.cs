@@ -8,14 +8,14 @@ namespace TodoList.Controllers
 {
     public class TodoController : Controller
     {
-        // Ações aqui.
-		public IActionResult Index()
-		{
-			// Obter os itens da base de dados
+        // Actions go here
+        public IActionResult Index()
+    {
+        // Get to-do items from database
 
-			// Colocar os itens no model
+        // Put items into a model
 
-			// Renderizar a view usando o model
-		}
+        // Render view using the model
+    }
     }
 }
