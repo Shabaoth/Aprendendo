@@ -44,3 +44,11 @@ table tr.done {
     text-decoration: line-through;
     color: #888;
 }
+
+.container {
+	margin-top: 40px;
+}
+
+.btn-primary {
+	width: 100%;
+}-

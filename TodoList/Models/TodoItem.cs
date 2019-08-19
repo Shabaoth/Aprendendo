@@ -5,13 +5,15 @@ namespace TodoList.Models
 {
     public class TodoItem
     {
+		public string UserId {get; set;}
+
         public Guid Id { get; set; }
 
         public bool Status { get; set; }
 
         [Required]
-        public string Description { get; set; }
+        public string Titulo { get; set; }
 
-        public DateTimeOffset? DueAt { get; set; }
+        public DateTimeOffset? Prazo { get; set; }
     }
 }
